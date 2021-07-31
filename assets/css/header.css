@@ -1,0 +1,82 @@
+.hd {
+  width: 100%;
+  height: 77.59px;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  z-index: -3;
+  position: fixed;
+}
+
+.hd .hd__box1 .hd__box1__img {
+  margin-top: 5px;
+}
+
+.hd .hd__box2 {
+  width: 70%;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.hd .hd__box2 .hd__box2__text1 {
+  width: 96.92px;
+  height: 16px;
+}
+
+.hd .hd__box2 .hd__box2__text2 {
+  width: 128.13px;
+  height: 16px;
+}
+
+.hd .hd__box2 .hd__box2__text3 {
+  width: 122.69px;
+  height: 16px;
+}
+
+.hd .hd__box2 .hd__box2__text4 {
+  width: 135.69px;
+  height: 16px;
+}
+
+.hd .hd__box2 .hd__box2__text5 {
+  width: 148.72px;
+  height: 16px;
+}
+
+.hd .hd__box2 .hd__box2__text1 .hd__box2__text1__tt1 {
+  width: 46.92px;
+  height: 16px;
+}
+
+.hd .hd__box2 .hd__box2__text2 .hd__box2__text1__tt2 {
+  width: 78.13px;
+  height: 16px;
+}
+
+.hd .hd__box2 .hd__box2__text3 .hd__box2__text1__tt3 {
+  width: 72.69px;
+  height: 16px;
+}
+
+.hd .hd__box2 .hd__box2__text4 .hd__box2__text1__tt4 {
+  width: 85.69px;
+  height: 16px;
+}
+
+.hd .hd__box2 .hd__box2__text5 .hd__box2__text1__tt5 {
+  width: 98.72px;
+  height: 16px;
+}
+
+.bk {
+  background-image: url(https://firebasestorage.googleapis.com/v0/b/storage-4leaf.appspot.com/o/HNB%2Fassets%2Fimages%2FMM00%2F%E1%84%86%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AB-00.png?alt=media&token=95ef82ef-0e41-4515-9bbb-ecfa51ba0c74);
+  background-size: cover;
+
+  position: relative;
+  z-index: -1;
+}

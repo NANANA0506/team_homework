@@ -1,0 +1,62 @@
+.mn1 {
+  width: 1022.67px;
+  height: 578px;
+}
+
+.bk__textbox {
+  width: 480.65px;
+  height: 404.59px;
+  background-color: #123146;
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: -2;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.bk .bk__textbox .bk__textbox__big {
+  width: 420.65px;
+  height: 80px;
+
+  font-size: 26px;
+  margin-top: 40px;
+  color: #ffffff;
+  z-index: 999 !important;
+}
+
+.bk .bk__textbox .bk__textbox__small {
+  width: 420.65px;
+  height: 56px;
+  margin-bottom: 40px;
+}
+
+.bts__text1 {
+  width: 226.4px;
+  height: 18.67px;
+  font-size: 12px;
+  color: #ffffff;
+}
+
+.bts__text2 {
+  width: 258.83px;
+  height: 18.67px;
+  font-size: 12px;
+  color: #ffffff;
+}
+
+.bts__text3 {
+  width: 401.46px;
+  height: 18.67px;
+  font-size: 12px;
+  color: #ffffff;
+}
+
+.bk__textbox__big__1 {
+  width: 54.68px;
+  height: 64px;
+  background-color: #0b0b0b;
+  z-index: 999 !important;
+}
